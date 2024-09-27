@@ -1,0 +1,63 @@
+npx create-react-app fullstackwithreact
+cd fullstackwithreact
+npm start
+
+
+stop the server
+
+ npm install -D tailwindcss
+
+npm i react-router-dom
+
+
+movieapi-
+username and password-pavan!234
+
+TailwindCss
+---------------------------------------------------------
+
+Terminal
+
+npx create-react-app my-project
+cd my-project
+
+
+npm install -D tailwindcss
+npx tailwindcss init
+
+
+
+
+tailwind.config.js
+
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "./src/**/*.{js,jsx,ts,tsx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+
+
+
+
+index.css
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+Terminal
+
+npm run start
+
+------------------------------------------------------------------
+
+
+
